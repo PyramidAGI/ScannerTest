@@ -1,0 +1,56 @@
+thing,type,content
+WHAT IS THE UTILITY
+1,1,1
+1,1,1
+word,tp,toki
+glass,quark,container
+profit,sutsil,economic_indicator
+speed,tp,tawa tawa
+table,quark,support
+chair,quark,support
+lamp,quark,radiation
+glasses,physics,optics
+glasses,tp,ilo 
+stove,phys,heat
+handle,quark,support
+container,quark,container
+spout,quark,channel
+spout,transform,force->liquidflow
+lid,quark,shield
+curtains,quark,shield
+curtains,transform,shield->decrease-light
+motor,transform,energy->force
+sun,phys,lux
+sun,transform,energy->lux
+fight,sutsil,pleasure/pain
+fight,tp,utala
+meal,quark,food
+to_eat,transform,force->energy
+to_sleep,tp,lape
+to_control,tp,lawa
+to_teach,tp,pana sona
+to_buy,tp,esun
+to_sell,tp,esun
+machine,tp,ilo
+flying,tp,tawa sewi
+living,tp,lon
+candle,quark,radiation
+candle,phys,lux
+sqlcode,quark,data
+to_compress,quark,compress
+soda,quark,food
+soda,tp,telo
+to_drink,tp,moku
+music,tp,kalama musi
+camera,tp,ilo setelen
+problem,tp,ike
+force,phys,force
+heat,phys,heat
+proteine,quark,data
+proteine,tp,lili
+proteine,quark,nature
+cost,sutsil,cost
+productivity,sutsil,productivity
+tree,quark,nature
+tree,tp,kasi suli
+
