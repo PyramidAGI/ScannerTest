@@ -53,4 +53,8 @@ cost,sutsil,cost
 productivity,sutsil,productivity
 tree,quark,nature
 tree,tp,kasi suli
+social,tp,kulupu
+social,sutsil,likes
+social,transform,group->likes
+
 
